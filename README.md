@@ -13,6 +13,7 @@ I build small, practical tools for AI coding agents and knowledge work.
 ## Paid
 
 - **[Agent Skills Pro](https://alapha888.github.io/agent-skills-pro/)** — 3 advanced skills for multi-agent coordination, codebase mapping, and release notes ($39 one-time).
+- **[中文 AI 编程 CLI 工作流包 完整版](https://afdian.com/item/8c9c0932bd7711f19eb852540025c377)** — 10 个中文 command + 3 套项目模板 + 速查表 + 真实演示项目，¥9.90 起（爱发电，付款后 12 小时内私信交付）；免费 Lite 版见上。
 - **《Agent Skills 中文实战包》** — 5 个 skill 中文版 + 中文安装指南 + 3 个中文实战案例，¥9.90 起 → [爱发电](https://afdian.com/item/595000f4bd6011f1995a52540025c377)
 
 ## Custom work
