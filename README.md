@@ -18,6 +18,13 @@ I build small, practical tools for AI coding agents and knowledge work.
 - **[MD 排版助手 Pro 激活码](https://afdian.com/item/53f63166bdb311f1aa515254001e7c00)** — MD Publisher 扩展的 Pro 版：微信 / 知乎 / 掘金三平台一键打包导出，¥19.90 一次买断（爱发电）。
 - **[AI 编程工作流诊断](https://afdian.com/item/bfc88e58bdad11f19b095254001e7c00)** — Claude Code / Codex 配置与工作流 1 对 1 诊断：问题清单 + 优先级 + 具体改法，¥99 一次（爱发电）。
 
+## Validating next (not yet built)
+
+These are waitlist-only concepts. Nothing is for sale and no payment is taken; each will only be built if enough people register interest by 2026-10-31.
+
+- **[MDClip Pro — waitlist](https://alapha888.github.io/mdclip-waitlist/)** — Planned batch web-page-to-Markdown conversion with Chinese-site formatting kept intact. Intent price ¥15/month; builds only if 30 people register by 2026-10-31.
+- **[SyncMatrix — waitlist](https://alapha888.github.io/syncmatrix-waitlist/)** — Planned multi-account publishing status tracking and basic stats rollup for small teams and account matrices. Intent price ¥39/month; builds only if 20 people register by 2026-10-31.
+
 ## Custom work
 
 Custom skill / AI workflow commissions from ¥499, via [Afdian DM](https://afdian.com/a/cb-alerts). Scope is agreed in writing first; a 30% deposit goes through Afdian.
