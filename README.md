@@ -33,6 +33,7 @@ These are waitlist-only concepts. Nothing is for sale and no payment is taken; e
 - **[PhotoVeil — waitlist](https://alapha888.github.io/photoveil-waitlist/)** — Planned iOS app (not yet built): on-device bulk EXIF/GPS removal, purpose watermarks for ID or sensitive photos, and HEIC conversion. Intent price $9.99 lifetime; builds only if 30 people register by 2026-10-31.
 - **[BatchRename — waitlist](https://alapha888.github.io/batchrename-waitlist/)** — Planned macOS-first desktop app (not yet built): batch-rename files with rules and EXIF/photo metadata, live preview, one-click undo. Intent price $24.99 one-time; builds only if 30 people register by 2026-10-31.
 - **[LocalDevKit — waitlist](https://alapha888.github.io/localdevkit-waitlist/)** — Planned native macOS developer toolbox (not yet built): offline tools for AI-coding data tasks — very large JSON/log viewer, cURL converter, local secret redaction, LLM token counter. Intent price $19 one-time; builds only if 30 people register by 2026-10-31, with a top-3 tool ballot.
+- **[PageScrape Export — waitlist](https://alapha888.github.io/pagescrape-waitlist/)** — Planned browser extension (not yet built): one-click export of list/table data from the page you are viewing to clean CSV/Excel, fully local, with templates for e-commerce products, job postings, and property listings. Intent price $39 one-time; builds only if 20 people register by 2026-11-10, with a first-template ballot.
 
 ## Custom work
 
