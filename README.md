@@ -23,10 +23,14 @@ I build small, practical tools for AI coding agents and knowledge work.
 
 ## Validating next (not yet built)
 
-These are waitlist-only concepts. Nothing is for sale and no payment is taken; each will only be built if enough people register interest by 2026-10-31.
+These are waitlist-only concepts. Nothing is for sale and no payment is taken; each will only be built if enough people register interest by its deadline below.
 
 - **[MDClip Pro — waitlist](https://alapha888.github.io/mdclip-waitlist/)** — Planned batch web-page-to-Markdown conversion with Chinese-site formatting kept intact. Intent price ¥15/month; builds only if 30 people register by 2026-10-31.
 - **[SyncMatrix — waitlist](https://alapha888.github.io/syncmatrix-waitlist/)** — Planned multi-account publishing status tracking and basic stats rollup for small teams and account matrices. Intent price ¥39/month; builds only if 20 people register by 2026-10-31.
+- **[TabVault — waitlist](https://alapha888.github.io/tabvault-waitlist/)** — Planned local-first browser tab session manager. Intent price $19 one-time; builds only if 20 people register by 2026-11-08.
+- **[ChangeBrief — waitlist](https://alapha888.github.io/changebrief-waitlist/)** — Planned web page change monitoring with plain-language summaries. Intent price $29 one-time; builds only if 20 people register by 2026-11-09.
+- **[PocketRescue — waitlist](https://alapha888.github.io/pocketrescue-waitlist/)** — Planned offline rescue of exported Pocket archives. Intent price $29 one-time; builds only if 20 people register by 2026-11-10.
+- **[PhotoVeil — waitlist](https://alapha888.github.io/photoveil-waitlist/)** — Planned iOS app (not yet built): on-device bulk EXIF/GPS removal, purpose watermarks for ID or sensitive photos, and HEIC conversion. Intent price $9.99 lifetime; builds only if 30 people register by 2026-10-31.
 
 ## Custom work
 
