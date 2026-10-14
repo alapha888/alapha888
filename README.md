@@ -39,6 +39,7 @@ These are waitlist-only concepts. Nothing is for sale and no payment is taken; e
 - **[Expiry Radar — waitlist](https://alapha888.github.io/expiry-radar-waitlist/)** — Planned local-first iOS app (not yet built): subscriptions, warranties, IDs and policies in one expiry list, with photo capture and tiered reminders; no bank connection. Intent price $9.99 one-time; builds only if 20 people register by 2026-11-13.
 - **[备婚全流程管理表·中式版 — waitlist](https://alapha888.github.io/wedding-planner-waitlist/)** — Planned Excel + Feishu wedding workbook (not yet built): budget and payment tracking, vendor ledger, guest seating, red-envelope ledger, and a Chinese etiquette checklist. Intent price ¥19.9 / ¥29.9; builds only if 20 people register by 2026-11-13.
 - **[私房烘焙成本核算与定价表 — waitlist](https://alapha888.github.io/baking-cost-waitlist/)** — Planned Excel + Feishu costing workbook for home bakers (not yet built): recipe cost, packaging and loss, platform commissions, stall-fee allocation, and three pricing methods compared. Intent price ¥19.9 / ¥39.9; builds only if 20 people register by 2026-11-13.
+- **[Bilingual Wedding Planner — waitlist](https://alapha888.github.io/bilingual-wedding-waitlist/)** — Planned Excel + Google Sheets workbook for cross-cultural English–Chinese weddings (not yet built): bilingual guest list and seating, tea ceremony and Western ceremony timelines, red-envelope and gift registries side by side, dual-currency budget and vendor tracking. Intent price $29.99 one-time; builds only if 20 people register by 2026-11-13.
 
 ## Custom work
 
