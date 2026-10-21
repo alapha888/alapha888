@@ -19,6 +19,7 @@ I build small, practical tools for AI coding agents and knowledge work.
 - **[中文 AI 编程 CLI 工作流包 完整版](https://afdian.com/item/8c9c0932bd7711f19eb852540025c377)** — 10 个中文 command + 3 套项目模板 + 速查表 + 真实演示项目，¥9.90 起（爱发电，付款后 12 小时内私信交付）；免费 Lite 版见上。
 - **《Agent Skills 中文实战包》** — 5 个 skill 中文版 + 中文安装指南 + 3 个中文实战案例，¥9.90 起 → [爱发电](https://afdian.com/item/595000f4bd6011f1995a52540025c377)
 - **[MD 排版助手 Pro 激活码](https://afdian.com/item/53f63166bdb311f1aa515254001e7c00)** — MD Publisher 扩展的 Pro 版：微信 / 知乎 / 掘金三平台一键打包导出，¥19.90 一次买断（爱发电）。
+- **[PubAudit for Windows](https://alapha888.gumroad.com/l/lvodxo)** — $29 one-time Gumroad edition of the free PubAudit CLI above for non-technical users: select a folder, get the verified conversion report, no command line. The conversion engine was verified end-to-end on real Windows CI; the v1 installer is unsigned (SmartScreen warns on first run, SHA-256 published on the product page).
 - **[RunnerDriftAudit Pro](https://alapha888.gumroad.com/l/mepra)** — $29 one-time Gumroad edition that scans every repository in a local workspace in one run and writes one combined HTML report (cross-repo summary, per-repo findings, fix checklists); the free single-repo CLI above stays MIT and unlocked.
 - **[Code Review + Git Commit Cheat Sheets (Bundle)](https://alapha888.gumroad.com/l/zjayxe)** — Condensed, print-ready PDF + PNG versions of the free code-review and git-commit skills, $19 one-time (Gumroad).
 
