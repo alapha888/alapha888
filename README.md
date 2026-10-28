@@ -2,6 +2,8 @@
 
 I build small, practical tools for AI coding agents and knowledge work.
 
+爱发电主页（中文工具与模板）：https://afdian.com/a/cb-alerts
+
 ## Free and open source
 
 - **[Agent Skills — English Productivity Pack](https://github.com/alapha888/agent-skills-en)** — 5 free agent skills (MIT): technical-writing proofreading, conventional commit messages, meeting minutes, code review checklist, and a deep-research framework. Also listed on [skills.sh](https://skills.sh/alapha888/agent-skills-en), [AI Agents Listing](https://aiagentslisting.com/skill/agent-skills-en), and [AlternativeTo](https://alternativeto.net/software/agent-skills-en/).
