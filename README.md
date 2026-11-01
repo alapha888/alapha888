@@ -25,6 +25,15 @@ I build small, practical tools for AI coding agents and knowledge work.
 - **[RunnerDriftAudit Pro](https://alapha888.gumroad.com/l/mepra)** — $29 one-time Gumroad edition that scans every repository in a local workspace in one run and writes one combined HTML report (cross-repo summary, per-repo findings, fix checklists); the free single-repo CLI above stays MIT and unlocked.
 - **[Code Review + Git Commit Cheat Sheets (Bundle)](https://alapha888.gumroad.com/l/zjayxe)** — Condensed, print-ready PDF + PNG versions of the free code-review and git-commit skills, $19 one-time (Gumroad).
 
+## Templates & practice packs (Gumroad, pay what you want)
+
+- **[AGENTS.md & AI Coding-Agent Workflow Pack](https://alapha888.gumroad.com/l/agents-md-pack)** — 11 AGENTS.md stack templates, a one-line CLAUDE.md shim, 3 Cursor rule examples, 51 workflow prompts and a review checklist, from $9.
+- **[Python File & Office Automation Toolkit](https://alapha888.gumroad.com/l/python-automation-toolkit)** — 21 offline scripts for files, PDFs, images, spreadsheets, DOCX and QR codes, each with a dry-run mode, from $9.
+- **[SQL Query Debugging Practice Pack](https://alapha888.gumroad.com/l/sql-debug-practice)** — 18 runnable broken queries (fan-out, NULL traps, window frames, date boundaries) on a SQLite dataset with expected-result CSVs, from $7.
+- **[Freelancer Finance Kit](https://alapha888.gumroad.com/l/freelancer-finance-kit)** (Excel & Google Sheets), from $9 · **[Etsy & Shopify Seller Profit Calculator](https://alapha888.gumroad.com/l/etsy-shopify-profit-calculator)**, from $12 · **[Job Search Tracker](https://alapha888.gumroad.com/l/job-search-tracker)**, from $7.
+- **[Indie Audio Asset License Ledger & Steam Compliance Toolkit](https://alapha888.gumroad.com/l/indie-audio-license-ledger)** — track music/SFX licenses and attribution for a game release, from $7.
+- Printable planners & logs, from $5: [Language Study Planner](https://alapha888.gumroad.com/l/language-study-planner) · [Family Reunion Planner](https://alapha888.gumroad.com/l/family-reunion-planner) · [Household Record Location Inventory](https://alapha888.gumroad.com/l/household-record-inventory) · [Jigsaw Puzzle Journal](https://alapha888.gumroad.com/l/jigsaw-puzzle-journal) · [Home Brewing Batch Log](https://alapha888.gumroad.com/l/home-brewing-batch-log) · [Leathercraft Project & Cost Planner](https://alapha888.gumroad.com/l/leathercraft-planner) · [3D Print Filament Journal](https://alapha888.gumroad.com/l/3d-print-filament-journal).
+
 ## Validating next (not yet built)
 
 These are waitlist-only concepts. Nothing is for sale and no payment is taken; each will only be built if enough people register interest by its deadline below.
